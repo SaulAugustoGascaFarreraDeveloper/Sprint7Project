@@ -10,3 +10,7 @@ This app uses a dataset containing information about vehicles such as price, odo
 - histogram (relationship between odometer and quantity)
 
 - scatter plot (relationship between odometer and price)
+
+web service ur: 
+
+https://sprint7project-nt9t.onrender.com
